@@ -4,3 +4,5 @@
 Css : style.css
 Js : script.js
 Html : index.html
+
+Pas de gestion de cookie avec le script.js
